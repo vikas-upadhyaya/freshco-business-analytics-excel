@@ -1,80 +1,114 @@
-# freshco-business-analytics-excel
-End-to-end data analysis using Excel, including KPI calculations, cohort insights, and delivery time breakdown.
+# 🛒 Freshco Hypermarket Delivery Analytics
 
-🛒 Freshco Hypermarket Delivery Analytics
-📖 Overview
+> 🚀 **Excel-Based End-to-End Business Analytics Project**  
+> Analyzing delivery operations, customer behavior, and revenue performance using real-world KPIs.
 
-This project analyzes order-level transaction data from Freshco Hypermarket (Bangalore) to derive insights on customer behavior, delivery efficiency, revenue patterns, and operational performance.
+---
 
-The goal is to identify actionable insights that can improve:
+## 📌 Problem Statement
 
-Delivery efficiency 🚚
-Customer satisfaction ⭐
-Revenue optimization 💰
+Freshco Hypermarket offers home delivery services across multiple locations.  
+With increasing demand, the business needs to understand:
 
-📊 Dataset Description
-The dataset contains order-level information including:
+- Which time slots and locations drive the most orders?
+- How do discounts and delivery charges impact revenue?
+- What factors affect order completion rates?
+- How efficient is the delivery process?
 
-Order timestamps
-Delivery locations
-Product amount, discount, delivery charges
-Delivery time breakdown
-Customer ratings
-Acquisition source
+👉 This project analyzes order-level data to uncover actionable insights.
 
-📌 Key Metrics Used
-Completion Rate = Completed Orders / Total Orders
-Customer Lifetime Value (LTV) = Total revenue per customer
-Overall Delivery Time = Order Time → Delivery Completion Time
+---
 
-🔍 Key Insights
-📦 Order Trends
-Orders are highest during evening and night slots, indicating peak demand after working hours.
-Certain delivery areas show consistent growth in monthly orders, suggesting high demand zones.
+## 🎯 Objectives
 
-💸 Pricing & Discounts
-Discounts are higher in low-demand slots (morning/afternoon) → likely used to stimulate demand.
-Delivery charges are higher for distant locations, directly impacting customer satisfaction.
+- Analyze **order distribution across time slots and locations**
+- Evaluate **completion rates across different dimensions**
+- Understand **customer value (LTV) and revenue contribution**
+- Measure **delivery performance and identify delays**
+- Provide **data-driven business recommendations**
 
-✅ Completion Rate Insights
-Completion rate is highest during afternoon slots → less operational pressure.
-Late-night orders show lower completion rates, possibly due to:
-Fewer delivery partners
-Longer distances
+---
 
-👥 Customer Behavior
-Customers acquired via digital channels (e.g., Facebook) show:
-Higher LTV in some cases
-But inconsistent retention patterns
-Repeat customers contribute significantly to revenue → strong retention base.
+## 📊 Dataset Overview
 
-⭐ Ratings Analysis
-Orders with:
-Faster delivery times
-Lower delivery charges
-tend to receive higher ratings
-Large basket orders (more items) often have better ratings, possibly due to higher perceived value.
+The dataset contains order-level transactional data, including:
 
-🚚 Delivery Performance
-Delivery time increases significantly during:
-Evening peak hours
-High-demand locations
-Bottleneck identified:
-Delay between arrival at store → pickup start
+- 🕒 Order timestamps (month, time slots)  
+- 📍 Delivery areas  
+- 💰 Product amount, discounts, delivery charges  
+- 🚚 Delivery time metrics  
+- ⭐ Customer ratings  
+- 📢 Customer acquisition sources  
 
-📈 Business Recommendations
-🚀 Increase delivery partners during peak hours (evening/night)
-🎯 Optimize discount strategy (reduce over-discounting in low-impact areas)
-📍 Focus on high-growth delivery zones for expansion
-⚡ Improve store-level pickup efficiency
-💡 Introduce surge-based pricing or incentives for faster delivery
+---
 
-🛠 Tools Used
-Excel 
+## 🧠 Key Metrics
 
-📎 Project Highlights
+- **Completion Rate**  
+  `Completed Orders / Total Orders`
 
-✔ End-to-end data analysis
-✔ Business problem solving approach
-✔ Real-world metrics (LTV, Completion Rate)
-✔ Actionable insights
+- **Customer Lifetime Value (LTV)**  
+  `Total Revenue per Customer`
+
+- **Delivery Time**  
+  Time taken from order placement to final delivery  
+
+---
+
+## 🔍 Key Insights
+
+### 📦 1. Order Trends
+- Orders are **highest during evening and night slots**, indicating strong post-work demand  
+- Certain delivery areas show **consistent order volumes across months**  
+
+📌 *Insight:* Demand is time-sensitive and concentrated in specific slots and locations.
+
+---
+
+### 💸 2. Pricing & Discount Patterns
+- Discounts are relatively higher in **low-demand slots (morning/afternoon)**  
+- Delivery charges vary significantly across **different delivery areas**  
+
+📌 *Insight:* Pricing strategies vary by demand and geography.
+
+---
+
+### ✅ 3. Completion Rate Analysis
+- Completion rate is **highest during afternoon slots**  
+- Lower completion rates observed in **late-night slots**  
+- Variation in completion rate across delivery areas  
+
+📌 *Insight:* Operational efficiency varies by time and location.
+
+---
+
+### 👥 4. Customer & Revenue Analysis
+- Customer-level analysis shows **variation in LTV across users**  
+- Acquisition sources contribute differently to overall revenue  
+- Revenue per order varies based on order characteristics  
+
+📌 *Insight:* Customer value is unevenly distributed, highlighting the importance of high-value users.
+
+---
+
+### 🚚 5. Delivery Performance
+- Delivery time varies across:
+  - **Months**
+  - **Time slots**
+  - **Delivery areas**
+
+- Peak time slots tend to show **higher delivery times**  
+
+📌 *Insight:* Delivery efficiency is impacted by demand and location factors.
+
+---
+
+## 📈 Business Recommendations
+
+- 🚀 Increase delivery capacity during **evening and night peak hours**  
+- 🎯 Optimize discount strategy to ensure **better ROI**  
+- 📍 Focus on high-demand areas for **operational expansion**  
+- ⚡ Improve delivery efficiency in **high-delay zones and peak slots**  
+
+---
+
