@@ -133,8 +133,7 @@ The dataset contains order-level transactional data, including:
 
 Due to file size limitations, the Excel file can be accessed here:
 
-🔗 [Download Excel File]([your-google-drive-link](https://docs.google.com/spreadsheets/d/1P8BJZ_t4o5FTNF-QRcULJIKwuzcjUXks/edit?usp=sharing&ouid=116072600784558598214&rtpof=true&sd=true))
-
+[Download Excel File](https://docs.google.com/spreadsheets/d/1P8BJZ_t4o5FTNF-QRcULJIKwuzcjUXks/edit?usp=sharing&ouid=116072600784558598214&rtpof=true&sd=true)
 
 
 
