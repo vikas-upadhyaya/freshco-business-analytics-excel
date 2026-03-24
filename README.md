@@ -108,7 +108,19 @@ The dataset contains order-level transactional data, including:
 - 🚀 Increase delivery capacity during **evening and night peak hours**  
 - 🎯 Optimize discount strategy to ensure **better ROI**  
 - 📍 Focus on high-demand areas for **operational expansion**  
-- ⚡ Improve delivery efficiency in **high-delay zones and peak slots**  
+- ⚡ Improve delivery efficiency in **high-delay zones and peak slots**
 
 ---
+
+## 📊 Dashboard Preview
+
+
+### 📦 Order Trends
+![Order Trends](dashboard/order_trends.png)
+
+### ✅ Completion Rate Analysis
+![Completion Rate](dashboard/completion_rate.png)
+
+### 🚚 Delivery Performance
+![Delivery Analysis](dashboard/delivery_analysis.png)
 
