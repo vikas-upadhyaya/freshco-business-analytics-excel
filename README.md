@@ -57,7 +57,7 @@ The dataset contains order-level transactional data, including:
 
 ## 🔍 Key Insights
 
-### 📦 1. Order Trends
+### 1. Order Trends
 - Orders are **highest during evening and night slots**, indicating strong post-work demand  
 - Certain delivery areas show **consistent order volumes across months**  
 
@@ -65,7 +65,7 @@ The dataset contains order-level transactional data, including:
 
 ---
 
-### 💸 2. Pricing & Discount Patterns
+### 2. Pricing & Discount Patterns
 - Discounts are relatively higher in **low-demand slots (morning/afternoon)**  
 - Delivery charges vary significantly across **different delivery areas**  
 
@@ -73,7 +73,7 @@ The dataset contains order-level transactional data, including:
 
 ---
 
-### ✅ 3. Completion Rate Analysis
+### 3. Completion Rate Analysis
 - Completion rate is **highest during afternoon slots**  
 - Lower completion rates observed in **late-night slots**  
 - Variation in completion rate across delivery areas  
@@ -82,7 +82,7 @@ The dataset contains order-level transactional data, including:
 
 ---
 
-### 👥 4. Customer & Revenue Analysis
+### 4. Customer & Revenue Analysis
 - Customer-level analysis shows **variation in LTV across users**  
 - Acquisition sources contribute differently to overall revenue  
 - Revenue per order varies based on order characteristics  
@@ -91,7 +91,7 @@ The dataset contains order-level transactional data, including:
 
 ---
 
-### 🚚 5. Delivery Performance
+### 5. Delivery Performance
 - Delivery time varies across:
   - **Months**
   - **Time slots**
