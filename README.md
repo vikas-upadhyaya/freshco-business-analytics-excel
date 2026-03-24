@@ -1,11 +1,11 @@
 # 🛒 Freshco Hypermarket Delivery Analytics
 
-> 🚀 **Excel-Based End-to-End Business Analytics Project**  
+> **Excel-Based End-to-End Business Analytics Project**  
 > Analyzing delivery operations, customer behavior, and revenue performance using real-world KPIs.
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 Freshco Hypermarket offers home delivery services across multiple locations.  
 With increasing demand, the business needs to understand:
@@ -33,12 +33,12 @@ With increasing demand, the business needs to understand:
 
 The dataset contains order-level transactional data, including:
 
-- 🕒 Order timestamps (month, time slots)  
-- 📍 Delivery areas  
-- 💰 Product amount, discounts, delivery charges  
-- 🚚 Delivery time metrics  
-- ⭐ Customer ratings  
-- 📢 Customer acquisition sources  
+- Order timestamps (month, time slots)  
+- Delivery areas  
+- Product amount, discounts, delivery charges  
+- Delivery time metrics  
+- Customer ratings  
+- Customer acquisition sources  
 
 ---
 
